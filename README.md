@@ -1,6 +1,6 @@
-# weihnachtsprogramm2018
+# Weihnachtsprogramm 2018
 
 Dieser Arbeitsplatz ist für die Organisation des Weihnachtsprogramms 2018 erstellt worden.
 Hier sind alle Datein zu dem Programm drin.
 
-Hier dürfen nur berechtigte Personen Dateien verändern.
+By Jan-Hendrik aka. JH220
